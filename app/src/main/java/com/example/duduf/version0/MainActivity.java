@@ -15,6 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    // Declarations des variables
     private static int LOAD_IMG_MODELE = 1;
     private static int LOAD_IMG_SECRET = 2;
     ImageView largeImage;
